@@ -8,7 +8,7 @@ Add as Maven dependency:
     <dependency>
       <groupId>de.lhorn</groupId>
       <artifactId>dropwizard-dashboard</artifactId>
-      <version>1.0</version>
+      <version>1.0-SNAPSHOT</version>
     </dependency>
 
 Use it in your Dropwizard `Application`:
