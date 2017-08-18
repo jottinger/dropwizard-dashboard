@@ -1,5 +1,4 @@
 [![Build Status](https://travis-ci.org/lutzhorn/dropwizard-dashboard.svg?branch=master)](https://travis-ci.org/lutzhorn/dropwizard-dashboard)
-[![codecov](https://codecov.io/gh/lutzhorn/dropwizard-dashboard/branch/master/graph/badge.svg)](https://codecov.io/gh/lutzhorn/dropwizard-dashboard)
 
 # dropwizard-dashboard
 Admin Dashboard for Dropwizard.
