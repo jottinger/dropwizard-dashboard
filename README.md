@@ -11,6 +11,10 @@ Add as Maven dependency:
       <version>1.0-SNAPSHOT</version>
     </dependency>
 
+With Gradle, you can use this:
+
+    compile 'de.lhorn:dropwizard-dashboard:1.0-SNAPSHOT'
+
 Use it in your Dropwizard `Application`:
 
     @Override
